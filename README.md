@@ -1,4 +1,4 @@
-# DMart Sales Dashboard
+# DMart Revenue Growth Analysis Dashboard
 DMart Sales Dashboard using Looker Studio Business Intelligence Tool 
 
 **Problem Statement**
